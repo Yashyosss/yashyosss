@@ -4,14 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Python+Developer;Always+Learning&center=true&width=500&height=50">
 </p>
----
 
 ## 🚀 About Me
 - 🔐 Cybersecurity enthusiast building tools in Python
 - 💻 Exploring ethical hacking & cloud security
 - ⚡ Always learning and experimenting
 
----
 
 ## 🛠️ Skills
 - Python
@@ -22,7 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,github,js" />
 </p>
----
 
 ## 🚀 Featured Projects
 
@@ -35,7 +32,6 @@ Detect duplicate files using pixel comparison.
 ### 🎮 Cyberquest
 Gamified cybersecurity learning platform.
 
----
 
 ## 📊 GitHub Stats
 ![Yashas GitHub stats](https://github-readme-stats.vercel.app/api?username=yashyosss&show_icons=true&theme=dark)
