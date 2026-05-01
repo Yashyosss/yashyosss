@@ -33,9 +33,6 @@ Detect duplicate files using pixel comparison.
 Gamified cybersecurity learning platform.
 
 
-## 📊 GitHub Stats
-![Yashas GitHub stats](https://github-readme-stats.vercel.app/api?username=yashyosss&show_icons=true&theme=dark)
-
 ---
 
 ## 🔗 Connect With Me
